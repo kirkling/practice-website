@@ -1,0 +1,109 @@
+@@ -0,0 +1,107 @@
+body {
+    background-image: url('/images/spacebackground.jpg');
+    background-color: #000000;
+    font-size: 100%;
+    font-family: Georgia, "Times New Roman", Times, Serif;
+  }
+
+      h1 {
+        font-family: Helvetica, sans-serif;
+        font-varian: small-caps;
+        color: #ff004f;
+        margin-left: 23%;
+      }
+
+      h3 {
+        font-family: Arial, Helvetica, Verdana, sans-serif;
+        color: #08457e;
+      }
+
+      p {
+        font-family: Georgia, "Times New Roman", Times, serif;
+        font-size: 1em;
+        color: black;
+
+      }
+
+      .poem {
+        padding: 30px 30px 30px 30px;
+        background-color: #dcd0ff;
+        position: static;
+        margin-right: 30%;
+        margin-top: 25px;
+        margin-bottom: 25px;
+        margin-left: 23%;
+      }
+
+      .piece {
+        padding: 30px 30px 30px 30px;
+        background-color: #dcd0ff;
+        position: static;
+        margin-right: 30%;
+        margin-top: 25px;
+        margin-bottom: 25px;
+        margin-left: 23%;
+      }
+
+      a:link {
+	color: #08457e;
+      }
+
+
+      a:visited {
+	color: hotpink;
+      }
+
+      #nav {
+        padding-top: 1em;
+        padding-bottom: 1em;
+	position: static;
+	background-color: #dcd0ff;
+	margin-left: 1%;
+	width: 18%;
+        border-style: solid;
+        border-width: medium;
+      }
+
+      #footer {
+      	text-align: center;
+        color: white;
+      }
+
+a:link {
+	color: #3377ff;
+}
+
+a:visited {
+	color: #ff3377;
+}
+
+table, th, td {
+	border: 1px solid black;
+}
+
+table {
+	border-collapse: collapse;
+	width: 70%;
+	text-align: center;
+}
+
+img {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.linkblock {
+	padding: 30px 30px 30px 30px;
+        background-color: #dcd0ff;
+        position: static;
+        margin-right: 30%;
+        margin-top: 25px;
+        margin-bottom: 25px;
+        margin-left: 23%;
+}
+
+.iconlist {
+           list-style-image: url('/images/icon_lightbulb.png')
+}
+     
