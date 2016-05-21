@@ -1,4 +1,6 @@
-@@ -0,0 +1,107 @@
+/* By Katherine Geerling (https://github.com/kirkling)
+Last edited: May 20, 2016. */
+
 body {
     background-image: url('/images/spacebackground.jpg');
     background-color: #000000;
@@ -106,4 +108,3 @@ img {
 .iconlist {
            list-style-image: url('/images/icon_lightbulb.png')
 }
-     
